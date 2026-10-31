@@ -1,4 +1,4 @@
 # İlk projem
-Git ve GitHub öğreniyorum.
+En sevdiğim renk: kırmızı
 Bu satırı yeni-ozellik dalında ekledim!
 En sevdiğim renk: kırmızı
